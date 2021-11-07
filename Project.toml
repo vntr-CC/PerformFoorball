@@ -1,0 +1,15 @@
+name = "PerformFootball"
+uuid = "80e79e9f-4078-4026-95fa-0d9f7f83a294"
+authors = ["“Ventura Lastrucci” <“ventura.cc.21.22@gmail.com”>"]
+version = "0.1.0"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[compat]
+julia = "^1"
